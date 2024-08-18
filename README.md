@@ -34,6 +34,7 @@ The HR dashboard provides insights into leave trends, work-from-home trends, wor
 
 **Dashboard**
 
+![ezgif-6-09a978cfe5](https://github.com/user-attachments/assets/e0d99588-11a4-4298-b647-768b1f6f28fe)
 
 
 **Data Sources**
